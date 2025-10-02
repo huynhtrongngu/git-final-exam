@@ -1,0 +1,13 @@
+Xin chào, tôi là Huỳnh Trọng Ngữ, sinh viên ngành Công nghệ Thông tin. Hiện tại tôi đang tìm hiểu và thực hành về Git – một công cụ quản lý mã nguồn phân tán quan trọng trong phát triển phần mềm.
+  Tôi lựa chọn học Git vì đây là kỹ năng thiết yếu giúp quản lý, theo dõi và phối hợp khi làm việc nhóm trong các dự án lập trình. Ngoài ra, Git còn hỗ trợ lưu lại lịch sử thay đổi, dễ dàng khôi phục khi gặp lỗi và nâng cao tính chuyên nghiệp khi phát triển phần mềm.
+  Hiểu và sử dụng thành thạo các lệnh Git cơ bản như clone, commit, push, pull, branch, merge, rebase…
+  Biết cách xử lý xung đột, khôi phục phiên bản cũ, và quản lý lịch sử dự án.
+-sở thích
++ Đánh banh
++ Bơi lội
++ Mua sắm
+- kỹ năng
++ Sử lý tình huống
++ Làm việc nhóm
++ Đóng góp y kiến
+Tôi dự định bắt đầu học Git từ những kiến thức cơ bản như khởi tạo repository, commit, và quản lý file. Sau đó, tôi sẽ tìm hiểu cách sử dụng branch, merge, và xử lý xung đột để phục vụ làm việc nhóm. Tiếp theo, tôi sẽ thực hành kết nối Git với GitHub để đẩy code, tạo pull request và review. Ngoài ra, tôi cũng lên kế hoạch nghiên cứu các lệnh nâng cao như stash, reset, revert để quản lý mã nguồn chuyên nghiệp hơn. Mục tiêu của tôi là áp dụng Git thành thạo vào đồ án và các dự án thực tế, đồng thời nâng cao kỹ năng làm việc nhóm trong tương lai.
